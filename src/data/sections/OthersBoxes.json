@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-paint-bucket",
+    "title": "High Value For Money",
+    "content": "Pick Any Of Your Desired Plan And Subscribe To It."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-phone",
+    "title": "Free Cleaning",
+    "content": "No More Hassle Of Cleaning Cloths - Because We Are Doing it For You."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-display1",
+    "title": "Free Pick-Up And Drop",
+    "content": "A New And Completely Hygenic Wodrow every Week."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-diskette",
+    "title": "Flexible Membership",
+    "content": "Pause or Cancel Membership At any Time Without Any Extra Cost."
+  },
+  {
+    "id": 5,
+    "icon": "pe-7s-diskette",
+    "title": "Pricetags Are History",
+    "content": "You Can Wear Everything You See on The Screen Without Worrying About Price."
+  },
+  {
+    "id": 6,
+    "icon": "pe-7s-diskette",
+    "title": "Ownership to Usership",
+    "content": "Enjoy The Fun Of Usership Let Us Bear The Worden Of Ownership For You."
+  }
+]
